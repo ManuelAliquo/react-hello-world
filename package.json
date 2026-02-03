@@ -1,0 +1,23 @@
+{
+  "name": "react-hello-world",
+  "version": "1.0.0",
+  "description": "My first react project",
+  "homepage": "https://github.com/ManuelAliquo/react-hello-world#readme",
+  "bugs": {
+    "url": "https://github.com/ManuelAliquo/react-hello-world/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuelAliquo/react-hello-world.git"
+  },
+  "license": "ISC",
+  "author": "Manuel Aliquò",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  }
+}
